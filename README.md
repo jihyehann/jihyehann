@@ -1,14 +1,22 @@
-Hi there! I'm Jihye Han, a backend developer.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JIHYE%20HAN&fontSize=50"/>
+</p>
+
+<p align="center">
+  Hi there! I'm Jihye Han, a backend developer.
+</p>
 <br><br>
 
 
-<h3>Contact ✉️</h3>
-<a href="mailto:haneh0714@gmail.com"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jihyehan/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<h3 align="center">Contact ✉️</h3>
+<p align="center">
+  <a href="mailto:haneh0714@gmail.com"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jihyehan/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
 <br><br>
 
-<h3>Skills 🛠</h3>
-<p>
+<h3 align="center">Skills 🛠</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a> &nbsp
@@ -23,7 +31,8 @@ Hi there! I'm Jihye Han, a backend developer.
   <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a> &nbsp 
 </p>
-<br><br><br>
+<br><br><br><br><br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanjihye0714)](https://solved.ac/hanjihye0714)
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hanjihye0714"/>
+</p>
