@@ -19,9 +19,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a> &nbsp
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/></a> &nbsp
