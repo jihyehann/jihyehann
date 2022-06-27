@@ -10,6 +10,7 @@
 
 <h3 align="center">Contact ✉️</h3>
 <p align="center">
+  <a href="https://wisdom-cs.tistory.com/"><img src="http://img.shields.io/badge/Tech Blog-68BC71?style=flat&logo=GitHub Sponsors&logoColor=white"></a>
   <a href="mailto:haneh0714@gmail.com"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jihyehan/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
