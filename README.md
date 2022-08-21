@@ -10,7 +10,7 @@
 
 <h3 align="center">Contact ✉️</h3>
 <p align="center">
-  <a href="https://wisdom-cs.tistory.com/"><img src="http://img.shields.io/badge/Tech Blog-68BC71?style=flat&logo=GitHub Sponsors&logoColor=white"></a>
+  <a href="https://wisdom-cs.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-flat&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
   <a href="mailto:haneh0714@gmail.com"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jihyehan/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
@@ -33,5 +33,15 @@
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hanjihye0714"/>
+</p>
+
+<br>
+
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jihyehann&show_icos=true&theme=tokyonight" />
+    <br/><br/><br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyehann&layout=compact&theme=tokyonight" />
+  </a>
 </p>
 <br><br><br>
